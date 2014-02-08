@@ -10,6 +10,7 @@ body{
 }
 article{
 	text-align: right;
+
 }
 h1{
 	font-size: 60px;
@@ -22,5 +23,9 @@ h4{
 }
 section {
 	padding:20px 0px 10px 30px;
-	border-left: 1px dotted black;
+	border-left: 1px dashed black;
+	margin-top: 10px;
+}
+.ed, .object, .employ {
+	border-bottom: 1px dashed black;
 }
