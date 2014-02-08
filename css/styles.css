@@ -9,8 +9,10 @@ body{
 	background: gray;
 }
 article{
-	text-align: center;
-
+	text-align: right;
+}
+h1{
+	font-size: 60px;
 }
 h4{
 	margin-left: 20px;
