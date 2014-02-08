@@ -7,13 +7,16 @@
 }
 body{
 	background: gray;
+	font-family: 'Advent Pro', sans-serif;
 }
 article{
 	text-align: right;
-
 }
+
 h1{
 	font-size: 60px;
+	color: rgb(96, 194, 250);
+
 }
 h4{
 	margin-left: 20px;
@@ -23,9 +26,11 @@ h4{
 }
 section {
 	padding:20px 0px 10px 30px;
-	border-left: 1px dashed black;
+	border-left: 1px dashed rgb(96, 194, 250);
+;
 	margin-top: 10px;
 }
 .ed, .object, .employ {
-	border-bottom: 1px dashed black;
+	border-bottom: 1px dashed rgb(96, 194, 250);
 }
+
