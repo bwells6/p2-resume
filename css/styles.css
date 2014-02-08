@@ -10,10 +10,15 @@ body{
 }
 article{
 	text-align: center;
+
 }
 h4{
 	margin-left: 20px;
 }
 .container{
 	background: white;
+}
+section {
+	padding:20px 0px 10px 30px;
+	border-left: 1px dotted black;
 }
