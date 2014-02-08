@@ -5,6 +5,15 @@
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
+body{
+	background: gray;
+}
 article{
 	text-align: center;
+}
+h4{
+	margin-left: 20px;
+}
+.container{
+	background: white;
 }
