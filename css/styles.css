@@ -6,7 +6,7 @@
 	background: url("../img/grid-bg.png") repeat-y;
 }
 body{
-	background: gray;
+	background: url( "../img/white_sand.png");
 	font-family: 'Advent Pro', sans-serif;
 }
 article{
@@ -23,6 +23,7 @@ h4{
 }
 .container{
 	background: white;
+	
 }
 section {
 	padding:20px 0px 10px 30px;
