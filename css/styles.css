@@ -22,9 +22,13 @@ a {
 	color:black;
 }
 
-h4{
+h4 {
+	text-indent: 20px;
+}
+.work, .ed, .skills, .degrees {
 	margin-left: 20px;
 }
+
 .container{
 	background: white;
 	margin-top: 20px;
@@ -37,7 +41,7 @@ section {
 	border-left: 1px dashed rgb(96, 194, 250);
 	margin-top: 10px;
 }
-.ed, .object, .employ {
+.ed, .object, .work {
 	border-bottom: 1px dashed rgb(96, 194, 250);
 }
 
