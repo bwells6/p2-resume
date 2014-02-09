@@ -23,7 +23,9 @@ h4{
 }
 .container{
 	background: white;
-	
+	margin-top: 20px;
+	margin-bottom: 20px;
+
 }
 section {
 	padding:20px 0px 10px 30px;
