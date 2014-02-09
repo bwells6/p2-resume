@@ -15,9 +15,13 @@ article{
 
 h1{
 	font-size: 60px;
-	color: rgb(96, 194, 250);
-
+	color: rgb(14, 114, 172);
 }
+a {
+	text-decoration: none;
+	color:black;
+}
+
 h4{
 	margin-left: 20px;
 }
@@ -31,7 +35,6 @@ h4{
 section {
 	padding:20px 0px 10px 30px;
 	border-left: 1px dashed rgb(96, 194, 250);
-;
 	margin-top: 10px;
 }
 .ed, .object, .employ {
