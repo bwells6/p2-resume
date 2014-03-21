@@ -15,11 +15,14 @@ article{
 
 h1{
 	font-size: 60px;
-	color: dark green;
+	color: #333;
 }
 a {
 	text-decoration: none;
 	color:black;
+}
+a:hover{
+	color:green;
 }
 
 h4 {
